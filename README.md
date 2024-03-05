@@ -1,5 +1,5 @@
 # Truck-Manager-Web-Application
-Web application for managing truck departure time
+ReactJs and ExpressJs Web application for managing truck departure time
 
 ![Truck Manager](./images/truck_manager.png)
 
