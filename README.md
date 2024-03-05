@@ -1,6 +1,8 @@
 # Truck-Manager-Web-Application
 Web application for managing truck departure time
 
+![Truck Manager](./images/truck_manager.png)
+
 # Project Setup
 
 This repository contains both frontend and backend components. To ensure the proper functioning of both, you need to install the necessary npm node modules. Follow the steps below for each component:
